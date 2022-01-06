@@ -480,6 +480,8 @@ section {
     width: 100%;
 }
 
+.clock {}
+
 .left,
 .right {
     height: 100%;
